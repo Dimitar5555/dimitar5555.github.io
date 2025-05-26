@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dimitar5555.github.io/sofiatraffic-schedules/sitemap.xml
